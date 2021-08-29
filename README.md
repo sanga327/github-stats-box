@@ -4,10 +4,9 @@
   </a>
   <h3 align="center">github-stats-box</h3>
   <p align="center">⚡️📌 Update a pinned gist to contain your GitHub stats</p>
-</p>
+</p>  
 
 ---
-
 ## Prep work
 
 1. Create a new public GitHub Gist (https://gist.github.com/new)
@@ -29,3 +28,4 @@
     - **K_FORMAT:** Boolean value, If `true`, large numbers values will be formatted with a "k", for example `1.5k`
 
 That's it! You gist will be updated immediately, and every 12 hours after that
+<br>
